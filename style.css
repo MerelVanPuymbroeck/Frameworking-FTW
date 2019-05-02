@@ -1,0 +1,10 @@
+.col {
+box-shadow: 10px 10px 5px	#b3ccff;
+}
+
+@media only screen and (min-width: 150px)and (max-width:600px){
+.body {
+  margin: 0 auto;
+  width: 90%;
+  clear:both;
+}
